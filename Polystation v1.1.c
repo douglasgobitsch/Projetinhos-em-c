@@ -49,7 +49,7 @@ int main()
 					
 					case 'c':
 					case 'C':
-					printf("Voce errou!!! A resposta certa era (b)\n\n");
+					printf("Voce errou!!! A resposta certa era (a)\n\n");
 					break;
 					
 					default :
@@ -100,7 +100,7 @@ int main()
 					
 					case 'b':
 					case 'B':
-					printf("Voce errou!!! A Resposta certa era (b)\n\n");
+					printf("Voce errou!!! A Resposta certa era (c)\n\n");
 					break;
 					
 					case 'c':
