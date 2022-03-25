@@ -324,7 +324,7 @@ int main()
     		voltar:
 			j:
        		 system("cls");
- 		       printf("Tende adivinhar um numero entre 1 e 1000...\n");
+ 		       printf("Tente adivinhar um numero entre 1 e 1000...\n");
 				valortotal = rand() % 999;
 				++valortotal;
 		
